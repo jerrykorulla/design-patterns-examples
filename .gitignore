@@ -1,0 +1,22 @@
+# Build artifacts
+*.exe
+*.obj
+*.o
+*.out
+*.ilk
+*.pdb
+*.exp
+*.lib
+
+# Runtime output from the examples
+application.log
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vs/
+.vscode/
+*.swp
