@@ -12,6 +12,10 @@
 application.log
 *.log
 
+# PowerPoint temporary files
+~$*.ppt
+~$*.pptx
+
 # OS files
 .DS_Store
 Thumbs.db
